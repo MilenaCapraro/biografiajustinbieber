@@ -48,7 +48,7 @@ and open the template in the editor.
             <!-- Menu do site -->
             <div class="collapse navbar-collapse" id="navbarsExampleDefault">
                 <ul class="navbar-nav mr-auto">
-                    <li class="nav-item active">
+                    <li class="nav-item">
                         <a class="nav-link" href="index.html">Página inicial</a>
                     </li>
                     <li class="nav-item">
@@ -57,10 +57,26 @@ and open the template in the editor.
                     <li class="nav-item">
                         <a class="nav-link" href="musicas.html">Músicas</a>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item active">
                         <a class="nav-link" href="videos.html">Vídeos</a>
                     </li>
-
+                </ul>
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://www.facebook.com/JustinBieber" target="_blank"><img src="icon/facebook.png" width="35" > </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://www.instagram.com/justinbieber/" target="_blank"><img src="icon/instagram.png" width="35"></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s" target="_blank"><img src="icon/spotify.png" width="35"></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://twitter.com/justinbieber" target="_blank"><img src="icon/twitter.png" width="35"></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://www.youtube.com/channel/UCIwFjwMjI0y7PDBVEO9-bkQ" target="_blank"><img src="icon/youtube.png" width="35"></a>
+                    </li>                                              
                 </ul>
             </div>
         </nav>
@@ -76,14 +92,34 @@ and open the template in the editor.
             <!-- Fim cabeçalho -->
 
             <div>
-                <h2>Músicas</h2>
+                <h2>Vídeos</h2>
 
-                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Separamos uma playlist com as melhores músicas
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Separamos uma playlist com os melhores vídeos
                     do Justin para você ouvir!</p>
-
             </div>
             
-            <audio src="musicas/queenBohemianRhapsody.mp3" controls></audio>
+            <div class="row">
+                
+                <div class="col-md-6">
+                <video src="videos/baby.mp4" controls width="500" height="240"></video>
+                </div>
+                
+                <div class="col-md-6">
+                    <video src="videos/one_less_lonely_girl.mp4" controls width="500" height="240"></video>
+                </div>                     
+            </div>
+            
+            <div class="row">
+                
+                <div class="col-md-6">
+                    <video src="videos/mistletoe.mp4" controls width="500" height="240"></video>
+                </div>
+                
+                <div class="col-md-6">
+                    <video src="videos/" controls width="500" height="240"></video>
+                </div>                     
+            </div>
+            
 
         </main>
 
