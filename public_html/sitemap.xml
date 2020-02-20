@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://milenacapraro.github.io/biografiajustinbieber/public_html/</loc>
+  <lastmod>2020-02-20T00:25:10+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://milenacapraro.github.io/biografiajustinbieber/public_html/index.html</loc>
+  <lastmod>2020-02-20T00:25:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://milenacapraro.github.io/biografiajustinbieber/public_html/sobre.html</loc>
+  <lastmod>2020-02-20T00:25:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://milenacapraro.github.io/biografiajustinbieber/public_html/musicas.html</loc>
+  <lastmod>2020-02-20T00:25:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://milenacapraro.github.io/biografiajustinbieber/public_html/videos.html</loc>
+  <lastmod>2020-02-20T00:25:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://milenacapraro.github.io/biografiajustinbieber/public_html/discografia.html</loc>
+  <lastmod>2020-02-20T00:25:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
